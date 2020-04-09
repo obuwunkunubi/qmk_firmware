@@ -31,4 +31,3 @@ AUDIO_ENABLE = no        # Audio output on port C6
 
 OLED_DRIVER_ENABLE = yes # Enable OLED display support
 ENCODER_ENABLE = yes     # Enable encoder support
-
